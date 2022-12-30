@@ -3,4 +3,4 @@ custom_patterns:
 - username
 custom_severities:
 - detector: Password
-  severity: medium
+  severity: Medium
