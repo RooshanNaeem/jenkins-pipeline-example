@@ -4,7 +4,5 @@ custom_severities:
 - detector: PasswordFile
   severity: medium
 
-custom_patterns:
-- (?i)(.password)\s*=\s*[0-9a-zA-Z/+=_]{32}
 
 
