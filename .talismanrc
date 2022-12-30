@@ -2,7 +2,7 @@ threshold: medium
 
 custom_patterns:
 
-- ^[a-zA-Z0-9_]*$
+- Password:"^[a-zA-Z0-9_]*$"
 
 custom_severities:
 
