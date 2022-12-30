@@ -1,9 +1,12 @@
 threshold: medium
+
 custom_patterns:
+
 - Password
 - username
 
 custom_severities:
+
 - detector: PasswordPhrasePattern
   severity: medium
 - detector: username
@@ -12,5 +15,6 @@ custom_severities:
   severity: medium
 
 fileignoreconfig:
+
 - filename: sec_files/file1
   checksum: 0c2bb5418e8978f9c86dc7e8164d629079bc13ca75015dba12165713053312c8
