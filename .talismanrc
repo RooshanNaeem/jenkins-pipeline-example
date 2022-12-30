@@ -6,6 +6,8 @@ custom_patterns:
 custom_severities:
 - detector: PasswordPhrasePattern
   severity: medium
+- detector: username
+  severity: medium
 - detector: PasswordFile
   severity: medium
 
